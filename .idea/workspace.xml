@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba00e600-cd23-4093-8e3c-77e18bc14332" name="Changes" comment="練習" />
+    <list default="true" id="ba00e600-cd23-4093-8e3c-77e18bc14332" name="Changes" comment="初始化">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/hexschool/bootstrap5-starter-files.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/chinyyuu/B00K.git&quot;,
     &quot;accountId&quot;: &quot;6557118a-957a-41e9-9abd-d181b1c3f097&quot;
   }
 }</component>
@@ -29,6 +32,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2r3KXC1z24LLC0UgHqAGE3pm6xf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +41,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/04/project/F2B/P1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -67,6 +72,8 @@
       <workItem from="1735782819918" duration="1215000" />
       <workItem from="1735784052482" duration="13000" />
       <workItem from="1735784080615" duration="56000" />
+      <workItem from="1735784140609" duration="9437000" />
+      <workItem from="1735798571517" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="練習">
       <option name="closed" value="true" />
@@ -76,7 +83,55 @@
       <option name="project" value="LOCAL" />
       <updated>1735782552274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="練習">
+      <option name="closed" value="true" />
+      <created>1735784227907</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735784227907</updated>
+    </task>
+    <task id="LOCAL-00003" summary="增加CDN">
+      <option name="closed" value="true" />
+      <created>1735785190894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735785190894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加CDN">
+      <option name="closed" value="true" />
+      <created>1735785219019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735785219019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="重新整理">
+      <option name="closed" value="true" />
+      <created>1735797677783</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735797677783</updated>
+    </task>
+    <task id="LOCAL-00006" summary="安裝BOOKSTRAP">
+      <option name="closed" value="true" />
+      <created>1735798184432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735798184432</updated>
+    </task>
+    <task id="LOCAL-00007" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1735798397427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735798397427</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +150,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="練習" />
-    <option name="LAST_COMMIT_MESSAGE" value="練習" />
+    <MESSAGE value="增加CDN" />
+    <MESSAGE value="重新整理" />
+    <MESSAGE value="安裝BOOKSTRAP" />
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
 </project>
