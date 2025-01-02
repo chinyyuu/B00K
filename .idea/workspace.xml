@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba00e600-cd23-4093-8e3c-77e18bc14332" name="Changes" comment="初始化">
+    <list default="true" id="ba00e600-cd23-4093-8e3c-77e18bc14332" name="Changes" comment="插入表格">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <workItem from="1735784052482" duration="13000" />
       <workItem from="1735784080615" duration="56000" />
       <workItem from="1735784140609" duration="9437000" />
-      <workItem from="1735798571517" duration="299000" />
+      <workItem from="1735798571517" duration="2027000" />
     </task>
     <task id="LOCAL-00001" summary="練習">
       <option name="closed" value="true" />
@@ -131,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735798397427</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="插入表格">
+      <option name="closed" value="true" />
+      <created>1735798926106</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735798926106</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +162,7 @@
     <MESSAGE value="重新整理" />
     <MESSAGE value="安裝BOOKSTRAP" />
     <MESSAGE value="初始化" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
+    <MESSAGE value="插入表格" />
+    <option name="LAST_COMMIT_MESSAGE" value="插入表格" />
   </component>
 </project>
